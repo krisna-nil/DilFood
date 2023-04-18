@@ -54,9 +54,9 @@ a span{
     display: none;
 
 }
-.menu-container:hover .menu{
+ .menu-container:hover .menu{
     display: block;
-}
+} 
 .menu a{
     width: 100%;
     min-width:8rem; 
